@@ -41,3 +41,6 @@ epiblast - 75% CpG:
 f)
 Покрытие:
 ![image_cov](https://user-images.githubusercontent.com/86132283/155024452-835bd8e6-0a60-470a-b7b2-8bca58cadd55.png)
+Метилирование:
+![image](https://user-images.githubusercontent.com/86132283/155025483-0e526335-75ae-4043-adad-f3359c80caf5.png)
+
