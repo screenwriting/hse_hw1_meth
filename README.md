@@ -25,3 +25,16 @@ a)
 ICM|1456|630
 epiblast|2328|1062
 
+d)
+
+ICM:
+![image](https://user-images.githubusercontent.com/86132283/155024356-d310758a-6c4a-426e-923f-f1827deb4a84.png)
+
+8cell
+![image](https://user-images.githubusercontent.com/86132283/155024398-b277cbe7-0695-498a-a786-5c88a6c48295.png)
+
+epiblast
+file:///C:/Users/Fedya/Downloads/SRR3824222_1_bismark_bt2_PE_report.html
+
+f)
+![image_cov](https://user-images.githubusercontent.com/86132283/155024452-835bd8e6-0a60-470a-b7b2-8bca58cadd55.png)
