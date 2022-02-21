@@ -2,6 +2,8 @@
 
 Ссылка на колаб: https://colab.research.google.com/drive/1v-7e7FcbkTHTMgWSIHeyjrPdNY3A5daI?usp=sharing
 
+Все файлы в папке data
+
 1 Номер:
 
 
