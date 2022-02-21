@@ -6,6 +6,15 @@
 
 1 Номер:
 
+Качество чтений падает к концу секвенирования 
+![image](https://user-images.githubusercontent.com/86132283/155023353-b00c1955-c569-4774-aa38-df5553368531.png)
+
+Содержание нуклеотидов постоянно на протяжении всего севенирования, за исключением начала
+![image](https://user-images.githubusercontent.com/86132283/155023596-80d67bf8-d3e1-4dee-a6c7-c097c55b7d72.png)
+
+График распределения не отличается от теоритического 
+![image](https://user-images.githubusercontent.com/86132283/155023712-ae6be4e2-7b0c-4df6-a482-589a3aee9dea.png)
+
 
 2 Номер:
 
@@ -15,3 +24,4 @@ a)
 8cell|1090|464
 ICM|1456|630
 epiblast|2328|1062
+
